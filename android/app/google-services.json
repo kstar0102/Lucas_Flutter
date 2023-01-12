@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471833612303",
+    "project_id": "productview-3870b",
+    "storage_bucket": "productview-3870b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471833612303:android:a312c0f1a0275b3ad3537a",
+        "android_client_info": {
+          "package_name": "com.example.larica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471833612303-avp8i66oaejggeep9v328etprf1brnld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wk4t-ydA6dlC6JxAkfZPUdW6VWE1RvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471833612303-avp8i66oaejggeep9v328etprf1brnld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
